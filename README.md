@@ -37,3 +37,8 @@ $ termux-wake-lock
 $ bash insta.sh
 
 
+🔗🔥Dukung saya dengan mengklik ikon 
+    bintang di atas️.
+                   By:AnomX🎭
+
+
