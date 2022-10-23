@@ -7,10 +7,13 @@
   developed by Termux Cyber Team.
 
 🔗🔥Notes...
-  -
-
-
-
+  -intentionally didn't secure the 
+   script to make it easy for 
+   beginners who want to learn.
+  -If you want to recode the script tools, 
+   that's okay, 
+   but please don't change the Author name.
+   
 🔗🔥Installation for termux:
 
 $ apt update && apt upgrade
@@ -32,3 +35,5 @@ $ chmod +x *
 $ termux-wake-lock
 
 $ bash insta.sh
+
+
